@@ -1,6 +1,5 @@
 const Manager = require ('../Emp/Manager');
 
-
 const manTest = new Manager ('cassie', 'cassie1@gmail.com', 1 , 'Manager', 101)
 
 describe('Manager', () => {

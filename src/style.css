@@ -41,16 +41,19 @@ body{
     border: solid 2px black;
     padding: 2px;
     background-color: white;
+    list-style-type: none;
 }
 .list-group-item2{
     margin: 10px;
     border: solid 2px black;
     padding: 2px;
     background-color: white;
+    list-style-type: none;
 }
 .list-group-item3{
     margin: 10px;
     border: solid 2px black;
     padding: 2px;
     background-color: white;
+    list-style-type: none;
 }

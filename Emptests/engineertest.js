@@ -1,7 +1,5 @@
 const Engineer = require('../Emp/Engineer');
 
-//name, email, id, role and github user name validation for Engineer
-
 const engTest = new Engineer ('Kase', 'kase5@gmail.com', 3, 'Engineer', 'Alexa')
 
 describe("Engineer", () =>{

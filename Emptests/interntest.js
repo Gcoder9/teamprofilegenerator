@@ -1,6 +1,5 @@
 const Intern = require ('../Emp/Intern');
 
-//name, email, id, role and school  name validation for intern 
 const internTest = new Intern ('Rilee', 'rilee9@gmail.com', 2 , 'Intern', 'UNC')
 
 describe('Intern', () => {
