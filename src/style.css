@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(255, 255, 255);
+    background-color: black;
 }
 .navbar-header {
     float: left;
@@ -12,31 +12,45 @@ body{
     font-size: 48px;}
 
 .navbar{
-    background: rgb(255,0,0);
-    color: rgb(255, 255, 255);
+    background: black;
+    color: rgb(84, 189, 253);
 }
 
 .card{
     margin: 20px;
-    padding: 0;
+    padding: 2px;
+    background: silver;
 }
 
-
-
 .card-header{
-    background: rgb(51,153,255)
+    background: rgb(84, 189, 253)
 }
 
 .card-title {
-    color:white;
+    color:black;
 }
 
 .text-muted {
     color:white;
 }
 
-.list-group{
+
+
+.list-group-item1{
     margin: 10px;
-    border: solid 2px rgba(128, 128, 128, 0.205);
-    
+    border: solid 2px black;
+    padding: 2px;
+    background-color: white;
+}
+.list-group-item2{
+    margin: 10px;
+    border: solid 2px black;
+    padding: 2px;
+    background-color: white;
+}
+.list-group-item3{
+    margin: 10px;
+    border: solid 2px black;
+    padding: 2px;
+    background-color: white;
 }
