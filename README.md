@@ -21,6 +21,7 @@ View walk through video here - <a href ="https://drive.google.com/file/d/1JVJuwa
 
 ## License 
 This project is license under MIT
+ ![Github license](https://img.shields.io/badge/license-mit-blue.svg)
 
 ## Contributing 
 Contributors should read the installation section. 
